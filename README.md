@@ -17,7 +17,7 @@ Individuals and micro-businesses often lack a lightweight, reproducible way to:
 This project provides a minimal, extendable solution that addresses those problems using only NumPy (and Matplotlib for visualization).
 
 ## What this repo contains
-- `finance_tracker.py` — core script with:
+- `source.py` — core script with:
   - CSV ingestion helper
   - Aggregation utilities (`np.sum`, `np.mean`, `np.std`)
   - Moving-average and linear-trend forecasting
