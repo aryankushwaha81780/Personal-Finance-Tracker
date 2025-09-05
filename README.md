@@ -39,7 +39,7 @@ From implementing and using this project you will:
   ```pip install numpy pandas matplotlib```
 
 2. Run MVP with synthetic data:
-  ```python finance_tracker.py```
+  ```python source.py```
 
 3. To use your CSV:
 - Provide `sample_data.csv` with header `Month, Cat1, Cat2,...`
